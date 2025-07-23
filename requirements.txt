@@ -1,0 +1,14 @@
+opencv-python
+spacy
+tensorboard
+tensorboardX
+pillow
+pycocotools
+pyyaml
+omegaconf
+cloudpickle
+hydra-core
+termcolor
+tqdm
+matplotlib
+scikit-image

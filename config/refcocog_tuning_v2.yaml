@@ -1,0 +1,91 @@
+MODEL:
+  MODEL: 'weakmcn'
+  USE_GLOVE: True
+  WORD_EMBED_SIZE: 300
+  EMBED_FREEZE: True
+  HIDDEN_SIZE: 512
+  DROPOUT_R: 0.1
+  MULTI_HEAD: 8
+  FF_SIZE: 2048
+  FLAT_GLIMPSES: 1
+  LANG_ENC: 'lstm'
+  N_SA: 3
+  VIS_ENC: 'yolov3'
+  VIS_FREEZE: True
+  SELECT_NUM: 17
+  CLASS_NUM: 80
+  NUM_POINTS: 5
+  WREC_DIM: 512
+  WRES_DIM: 256
+  IOU_THRESH: 0.4
+  USE_VITS: True
+
+TRAIN:
+  GPU: [4]
+  BATCH_SIZE: 64 # total batch size on a single node if multiprocessing_distributed else batch size on one gpu
+  NUM_WORKER: 8 # same as BATCH_SIZE
+  LR: 0.00012
+  EPOCHS: 25
+  WARM_EPOCH: 8
+  LR_DECAY_R: 0.2
+  PRINT_FREQ: 100
+  LOG_PATH: './logs/refcocog_weakmcn_vits'
+  LOG_IMAGE: False
+  PRETRAIN_WEIGHT: './yolov3_coco.pth'
+  RESUME_PATH: ''
+  SCHEDULER: 'wcosine'
+  MIN_LR: 0.00007
+  WARMUP_LR: 0.0000001
+  WARMUP: 4
+  USE_EMA: True
+  OPT: Adam
+  OPT_PARAMS: { betas: '(0.9, 0.98)', eps: '1e-9' }
+  GRAD_NORM_CLIP: 0.15
+  AMP: False
+  USING_CHECKPOINT: False
+  SEED: 123456
+#  SEED: 234567
+#  SEED: 345678
+#  SEED: 456789
+#  SEED: 567891
+#  SEED: 678912
+#  SEED: 789123
+#  SEED: 876543
+
+DISTRIBUTED:
+  # 1 on node 1, 0 on node 0
+  NODE_ID: 0
+  # number of nodes
+  WORLD_SIZE: 1
+  # 'tcp://IP_ADDR_NODE_0:FREEPORT' if multi nodes, 'tcp://127.0.0.1:FREEPORT' if single node
+  DIST_URL: "tcp://127.0.0.1:12345"
+  MULTIPROCESSING_DISTRIBUTED: True
+  RANK: 0
+
+DATA:
+  DATASET: 'refcocog'
+  MAX_TOKEN: 15
+  INPUT_SHAPE: [ 416,416 ]
+  MEAN: [ 0.485, 0.456, 0.406 ]
+  STD: [ 0.229, 0.224, 0.225 ]
+
+  ANN_PATH: {
+    'refcoco': './data/anns/refcoco.json',
+    'refcoco+': './data/anns/refcoco+.json',
+    'refcocog': './data/anns/refcocog.json',
+    'referit': './data/anns/refclef.json',
+  }
+
+  IMAGE_PATH: {
+    'refcoco': './data/images/train2014',
+    'refcoco+': './data/images/train2014',
+    'refcocog': './data/images/train2014',
+    'referit': './data/images/refclef',
+  }
+
+  MASK_PATH: {
+    'refcoco': './data/masks/refcoco',
+    'refcoco+': './data/masks/refcoco+',
+    'refcocog': './data/masks/refcocog',
+    'referit': './data/masks/refclef'
+  }

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dee14971-b6b2-47d7-bf4d-779f1bb0ddd9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hG4HOuET13OvEAyjeuIv3zHEAy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/silincheng/Documents/code/RefCLIP/assets&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/silincheng/Documents/code/RefCLIP/config/refcoco+_tuning_v2.yaml&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt_proj_dynamic_iou_consis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/models/RefCLIP_ESAM_WRECS" />
+      <recent name="$PROJECT_DIR$/EfficientSAM" />
+      <recent name="$PROJECT_DIR$/models/RefCLIP_WRECS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.refcoco_weak">
+    <configuration name="create_plot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://slcheng@research26.saas.hku.hk:22/disk1/work/slcheng/miniforge3/envs/DViR/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gaussian_kenel" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/RefCLIP_feature_crop_using_point_gaussian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/RefCLIP_feature_crop_using_point_gaussian/gaussian_kenel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="refcoco_semi" type="PythonConfigurationType" factoryName="Python">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://slcheng@research26.saas.hku.hk:22/disk1/work/slcheng/miniforge3/envs/DViR/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_semi.py" />
+      <option name="PARAMETERS" value="--config config/refcocog_WRECS_proj_dynamic_active_semi.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="refcoco_weak" type="PythonConfigurationType" factoryName="Python">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CUDA_VISIBLE_DEVICES" value="6" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="--config config/refcoco_tuning.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://slcheng@research38.saas.hku.hk:22/home/slcheng/miniforge3/envs/weakmcn/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="--config config/refcocog_tuning_v2.yaml --eval-weights /home/slcheng/Documents/code/weakmcn/logs/refcocog_weakmcn_vits/weakmcn/seed_123456/74081/best_det_acc_list.pth" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_vis_ours" type="PythonConfigurationType" factoryName="Python">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://slcheng@research26.saas.hku.hk:22/disk1/work/slcheng/miniforge3/envs/DViR/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_vis.py" />
+      <option name="PARAMETERS" value="--config config/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt_proj_dynamic_iou_consis.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_vis_refclip" type="PythonConfigurationType" factoryName="Python">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CUDA_VISIBLE_DEVICES" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_vis.py" />
+      <option name="PARAMETERS" value="--config config/refcoco_RefCLIP.yaml --eval-weights /home/slcheng/Documents/code/refclip_wrecs/refclip.pth" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_wo_DVFE" type="PythonConfigurationType" factoryName="Python">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://slcheng@research26.saas.hku.hk:22/disk1/work/slcheng/miniforge3/envs/DViR/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_vis.py" />
+      <option name="PARAMETERS" value="--config config/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt.yaml --eval-weights /home/slcheng/Documents/code/refclip_wrecs/wo_DFVE.pth" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_wo_ccm" type="PythonConfigurationType" factoryName="Python">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://slcheng@research26.saas.hku.hk:22/disk1/work/slcheng/miniforge3/envs/DViR/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_vis.py" />
+      <option name="PARAMETERS" value="--config config/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt_dynamic.yaml --eval-weights /home/slcheng/Documents/code/refclip_wrecs/wo_CCM.pth" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_ori" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://slcheng@research26.saas.hku.hk:22/disk1/work/slcheng/miniforge3/envs/DViR/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_ori.py" />
+      <option name="PARAMETERS" value="--config config/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualization_v3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RefCLIP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization_v3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.gaussian_kenel" />
+      <item itemvalue="Python.refcoco_weak" />
+      <item itemvalue="Python.refcoco_semi" />
+      <item itemvalue="Python.train_ori" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.visualization_v3" />
+      <item itemvalue="Python.create_plot" />
+      <item itemvalue="Python.test_vis_refclip" />
+      <item itemvalue="Python.test_vis_ours" />
+      <item itemvalue="Python.test_wo_ccm" />
+      <item itemvalue="Python.test_wo_DVFE" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee14971-b6b2-47d7-bf4d-779f1bb0ddd9" name="Changes" comment="" />
+      <created>1717206992231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717206992231</updated>
+      <workItem from="1717206995183" duration="29136000" />
+      <workItem from="1718458416658" duration="4144000" />
+      <workItem from="1720146712238" duration="54587000" />
+      <workItem from="1720425294264" duration="38126000" />
+      <workItem from="1720661237603" duration="34727000" />
+      <workItem from="1721215842148" duration="20973000" />
+      <workItem from="1721353814013" duration="31493000" />
+      <workItem from="1721396954314" duration="35189000" />
+      <workItem from="1721893509156" duration="57000" />
+      <workItem from="1721979995921" duration="81242000" />
+      <workItem from="1722912708564" duration="44455000" />
+      <workItem from="1723214886475" duration="1072000" />
+      <workItem from="1723443614072" duration="47454000" />
+      <workItem from="1723689964920" duration="5141000" />
+      <workItem from="1725017748566" duration="6174000" />
+      <workItem from="1725036709697" duration="84319000" />
+      <workItem from="1725352004652" duration="17411000" />
+      <workItem from="1725615055521" duration="14351000" />
+      <workItem from="1725666351995" duration="3069000" />
+      <workItem from="1725705379688" duration="2051000" />
+      <workItem from="1725712959326" duration="4935000" />
+      <workItem from="1725794771768" duration="80010000" />
+      <workItem from="1726159425346" duration="29986000" />
+      <workItem from="1726824675077" duration="47641000" />
+      <workItem from="1727078032353" duration="6368000" />
+      <workItem from="1727341008237" duration="9000" />
+      <workItem from="1727430038654" duration="25009000" />
+      <workItem from="1727879966772" duration="598000" />
+      <workItem from="1727882114653" duration="598000" />
+      <workItem from="1727883951737" duration="1000" />
+      <workItem from="1727890376777" duration="10436000" />
+      <workItem from="1728211873400" duration="27750000" />
+      <workItem from="1728305058996" duration="101906000" />
+      <workItem from="1728877063277" duration="11814000" />
+      <workItem from="1728961664507" duration="9264000" />
+      <workItem from="1729005370221" duration="14727000" />
+      <workItem from="1729146421667" duration="17757000" />
+      <workItem from="1729228525484" duration="142121000" />
+      <workItem from="1729771883003" duration="27049000" />
+      <workItem from="1729864416803" duration="149388000" />
+      <workItem from="1730374061320" duration="43954000" />
+      <workItem from="1730508117602" duration="16059000" />
+      <workItem from="1730565600375" duration="24947000" />
+      <workItem from="1730640386656" duration="42951000" />
+      <workItem from="1730795767698" duration="13314000" />
+      <workItem from="1730826924395" duration="92628000" />
+      <workItem from="1731148419598" duration="95286000" />
+      <workItem from="1731488137390" duration="7281000" />
+      <workItem from="1731577209491" duration="14276000" />
+      <workItem from="1731826780564" duration="42360000" />
+      <workItem from="1733127154280" duration="650000" />
+      <workItem from="1737724546990" duration="22685000" />
+      <workItem from="1737991178197" duration="2825000" />
+      <workItem from="1742826199209" duration="746000" />
+      <workItem from="1747543971313" duration="9436000" />
+      <workItem from="1747643008315" duration="37708000" />
+      <workItem from="1748195055325" duration="4585000" />
+      <workItem from="1748268141622" duration="11129000" />
+      <workItem from="1748957744096" duration="635000" />
+      <workItem from="1751098515138" duration="3308000" />
+      <workItem from="1751631660351" duration="4626000" />
+      <workItem from="1751691434282" duration="6442000" />
+      <workItem from="1751791582175" duration="14000" />
+      <workItem from="1751802589678" duration="12931000" />
+      <workItem from="1752115452077" duration="8497000" />
+      <workItem from="1752335400017" duration="2275000" />
+      <workItem from="1752398926417" duration="2137000" />
+      <workItem from="1752505035940" duration="2236000" />
+      <workItem from="1752568635671" duration="6698000" />
+      <workItem from="1752637119613" duration="9000" />
+      <workItem from="1752651437660" duration="598000" />
+      <workItem from="1752678581133" duration="4850000" />
+      <workItem from="1752799557100" duration="20516000" />
+      <workItem from="1753256374176" duration="556000" />
+      <workItem from="1753584928806" duration="406000" />
+      <workItem from="1753586172914" duration="1447000" />
+      <workItem from="1753627728593" duration="1223000" />
+      <workItem from="1754483970686" duration="1027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_FGVP_gt_boxes/net.py</url>
+          <line>220</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_FGVP_pred_boxes/net.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_feature_crop_guassian/net.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_feature_crop_using_point_gaussian/gaussian_kenel.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_ESAM_WRECS_single_fusion/net.py</url>
+          <line>259</line>
+          <option name="timeStamp" value="605" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_ESAM_WRECS_lan_wo_detach/net.py</url>
+          <line>375</line>
+          <option name="timeStamp" value="677" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_gt_box_as_prompt/net.py</url>
+          <line>406</line>
+          <option name="timeStamp" value="683" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt_proj_dynamic_only_dino/net.py</url>
+          <line>430</line>
+          <option name="timeStamp" value="782" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt_proj_sknet/net.py</url>
+          <line>410</line>
+          <option name="timeStamp" value="792" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_proj_dynamic_semi/net.py</url>
+          <line>597</line>
+          <option name="timeStamp" value="931" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_one_lang_detach_visual_share_pred_box_as_prompt/net.py</url>
+          <line>434</line>
+          <option name="timeStamp" value="1212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_one_lang_no_detach_visual_share_pred_box_as_prompt_proj_dynamic_active_mask/net.py</url>
+          <line>437</line>
+          <option name="timeStamp" value="1213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/utils.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="1239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/RefCLIP_WRECS_SimREC_pred_box_as_prompt_proj_dynamic_iou_consis_clip/net.py</url>
+          <line>471</line>
+          <option name="timeStamp" value="1251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>345</line>
+          <option name="timeStamp" value="1260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/weakmcn/net.py</url>
+          <line>230</line>
+          <option name="timeStamp" value="1261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/weakmcn/net.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="1262" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RefCLIP$train_refcoco_esam.coverage" NAME="refcoco_box_mask_ESAM_single_fusion Coverage Results" MODIFIED="1727871831824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$visualization_v2.coverage" NAME="visualization_v2 Coverage Results" MODIFIED="1731394178049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_box_mask.coverage" NAME="refcoco_box_mask_ESAM_double_lan_MS Coverage Results" MODIFIED="1728928513479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$train_ori.coverage" NAME="train_ori Coverage Results" MODIFIED="1731391102018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$test_wo_ccm.coverage" NAME="test_wo_ccm Coverage Results" MODIFIED="1731597810041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$train_refcoco_fea.coverage" NAME="train_refcoco_fea Coverage Results" MODIFIED="1725042034681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_box_mask_ESAM_double_lan_MS.coverage" NAME="refcoco_box_mask_ESAM_double_lan_MS Coverage Results" MODIFIED="1728984360235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_semi.coverage" NAME="refcoco_semi Coverage Results" MODIFIED="1731515498642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_box_mask_ESAM.coverage" NAME="refcoco_box_mask_ESAM_test Coverage Results" MODIFIED="1728742524907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$EfficientSAM_box_prompt.coverage" NAME="EfficientSAM_aug_vis Coverage Results" MODIFIED="1726109049008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EfficientSAM" />
+    <SUITE FILE_PATH="coverage/RefCLIP$visualization_v3.coverage" NAME="visualization_v3 Coverage Results" MODIFIED="1732122702619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$test_vis_ours.coverage" NAME="test_vis_ours Coverage Results" MODIFIED="1732194998801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$train_accelerator.coverage" NAME="train Coverage Results" MODIFIED="1725668782361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$create_plot.coverage" NAME="create_plot Coverage Results" MODIFIED="1731578313702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$test.coverage" NAME="test Coverage Results" MODIFIED="1752568692933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$train.coverage" NAME="refcoco_box_mask Coverage Results" MODIFIED="1727451910783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_weak.coverage" NAME="refcoco_weak Coverage Results" MODIFIED="1753585092765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$test_vis.coverage" NAME="test_vis_refclip Coverage Results" MODIFIED="1731061730050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1730049960916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$EfficientSAM_example.coverage" NAME="EfficientSAM_box_prompt Coverage Results" MODIFIED="1725719446981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EfficientSAM" />
+    <SUITE FILE_PATH="coverage/RefCLIP$train_refcoco.coverage" NAME="train_refcoco Coverage Results" MODIFIED="1725617251179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_WRECS_SimREC.coverage" NAME="refcoco_WRECS_SimREC Coverage Results" MODIFIED="1730272135977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_box_mask_ESAM_single_fusion.coverage" NAME="refcoco_box_mask_ESAM Coverage Results" MODIFIED="1728292145841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$refcoco_box_mask_ESAM_double_lan_MS_test.coverage" NAME="refcoco_box_mask_ESAM_double_lan_MS_test Coverage Results" MODIFIED="1728916018343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$gaussian_kenel.coverage" NAME="gaussian_kenel Coverage Results" MODIFIED="1723687698748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/RefCLIP_feature_crop_using_point_gaussian" />
+    <SUITE FILE_PATH="coverage/RefCLIP$test_wo_DVFE.coverage" NAME="test_wo_DVFE Coverage Results" MODIFIED="1731599662352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RefCLIP$visualization.coverage" NAME="visualization Coverage Results" MODIFIED="1731603204656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

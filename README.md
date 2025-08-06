@@ -78,9 +78,9 @@ pip3 install -v --no-cache-dir ./
 
 - Clone the EfficientSAM repository
 ```bash
-git clone https://github.com/yformer/EfficientSAM.git
 cd EfficientSAM
 cd weights
+wget https://github.com/yformer/EfficientSAM/raw/refs/heads/main/weights/efficient_sam_vits.pt.zip
 unzip efficient_sam_vits.pt.zip
 cd ../..
 ```

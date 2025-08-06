@@ -22,7 +22,7 @@ MODEL:
 
 TRAIN:
   GPU: [1]
-  BATCH_SIZE: 56 # total batch size on a single node if multiprocessing_distributed else batch size on one gpu
+  BATCH_SIZE: 2 #56 # total batch size on a single node if multiprocessing_distributed else batch size on one gpu
   NUM_WORKER: 8 # same as BATCH_SIZE
   LR: 0.0001
   EPOCHS: 25

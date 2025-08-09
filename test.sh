@@ -15,8 +15,8 @@ for dir in "$BASE_DIR"/*; do
 
         # Specify the directory to look for checkpoints
         checkpoint_dir="$dir/ckpt"
-#        checkpoint="$checkpoint_dir/det_best.pth"
-        checkpoint="$checkpoint_dir/seg_best.pth"
+        checkpoint="$checkpoint_dir/det_best.pth"
+#        checkpoint="$checkpoint_dir/seg_best.pth"
 
         # Check if the ckpt directory exists and look for seg_best.pth file
         if [ -d "$checkpoint_dir" ] && [ -f "$checkpoint" ]; then

@@ -28,7 +28,7 @@ TRAIN:
   EPOCHS: 25
   LR_DECAY_R: 0.2
   PRINT_FREQ: 100
-  LOG_PATH: './logs/refcoco_weakmcn'
+  LOG_PATH: './logs/refcoco_weakmcn_tmp'
   LOG_IMAGE: False
   PRETRAIN_WEIGHT: './yolov3_coco.pth'
   RESUME_PATH: ''

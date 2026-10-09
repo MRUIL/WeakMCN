@@ -174,7 +174,7 @@ python test.py --config ./config/[DATASET_NAME].yaml --eval-weights [PATH_TO_CHE
       <td>58.41</td>
       <td>60.06</td>
       <td>56.08</td>
-      <td><a href="https://drive.google.com/file/d/1z72KaIxCV_TQTo8sCh_Cr4p8qZ9y6OJA/view?usp=sharing">link</a></td>
+      <td><a href="https://huggingface.co/slcheng/WeakMCN-SAM-Vit-Tiny-RefCOCO">link</a></td>
     </tr>
     <tr>
       <td>WeakMCN (SAM Vit-base)</td>
@@ -184,7 +184,7 @@ python test.py --config ./config/[DATASET_NAME].yaml --eval-weights [PATH_TO_CHE
       <td>59.49</td>
       <td>61.01</td>
       <td>56.40</td>
-      <td><a href="https://drive.google.com/file/d/1voXCHwbPCF7qlrP-CE360fd2G0qiklnu/view?usp=sharing">link</a></td>
+      <td><a href="https://huggingface.co/slcheng/WeakMCN-SAM-Vit-Base-RefCOCO">link</a></td>
     </tr>
   </tbody>
 </table>
@@ -216,7 +216,7 @@ python test.py --config ./config/[DATASET_NAME].yaml --eval-weights [PATH_TO_CHE
       <td>42.51</td>
       <td>48.91</td>
       <td>35.10</td>
-      <td><a href="https://drive.google.com/file/d/12eCh4OdunSRRUYQR6307ZA4bG0P1f1II/view?usp=sharing">link</a></td>
+      <td><a href="https://huggingface.co/slcheng/WeakMCN-SAM-Vit-Tiny-RefCOCO-plus">link</a></td>
     </tr>
     <tr>
       <td>WeakMCN (SAM Vit-base)</td>
@@ -226,7 +226,7 @@ python test.py --config ./config/[DATASET_NAME].yaml --eval-weights [PATH_TO_CHE
       <td>44.36</td>
       <td>50.40</td>
       <td>37.12</td>
-      <td><a href="https://drive.google.com/file/d/1ht868vDoJjwQUg-qpbx1r6zcEHrEEJvb/view?usp=sharing">link</a></td>
+      <td><a href="https://huggingface.co/slcheng/WeakMCN-SAM-Vit-Base-RefCOCO-plus">link</a></td>
     </tr>
   </tbody>
 </table>
@@ -251,13 +251,13 @@ python test.py --config ./config/[DATASET_NAME].yaml --eval-weights [PATH_TO_CHE
       <td>WeakMCN (SAM Vit-tiny)</td>
       <td>53.82</td>
       <td>45.73</td>
-      <td><a href="https://drive.google.com/file/d/1-60icGj89kIwdIFBxDdA9uB4OpcYVCp-/view?usp=sharing">link</a></td>
+      <td><a href="https://huggingface.co/slcheng/WeakMCN-SAM-Vit-Tiny-RefCOCOg">link</a></td>
     </tr>
     <tr>
       <td>WeakMCN (SAM Vit-base)</td>
       <td>55.00</td>
       <td>46.81</td>
-      <td><a href="https://drive.google.com/file/d/1TgVbTlUBNssV4nFScIg2VZGk8wjyrPq_/view?usp=sharing">link</a></td>
+      <td><a href="https://huggingface.co/slcheng/WeakMCN-SAM-Vit-Base-RefCOCOg">link</a></td>
     </tr>
   </tbody>
 </table>
